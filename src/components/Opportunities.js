@@ -8,7 +8,7 @@ const Opportunities = () => {
     <section
       className="hero is-medium is-bold is-centered"
       style={{ height: "100%", backgroundColor: "white", paddingTop: "64px" }}
-      id="opportunties"
+      id="opportunities"
     >
       <div className="container has-text-centered">
         <h1 className="title">

@@ -11,7 +11,7 @@ export default class Footerpage extends Component {
         >
           <div className="has-text-centered">
             <a
-              href="https://www.instagram.com/studentcode_in/"
+              href="https://www.instagram.com/?hl=en"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -25,7 +25,7 @@ export default class Footerpage extends Component {
             </a>
             &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
             <a
-              href="https://www.linkedin.com/company/studentcode-in"
+              href="https://www.linkedin.com/in/prerna-m-8a296b12b"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -33,7 +33,7 @@ export default class Footerpage extends Component {
             </a>
             &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
             <a
-              href="https://medium.com/@studentcodein"
+              href="https://medium.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -41,7 +41,7 @@ export default class Footerpage extends Component {
             </a>
             &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
             <a
-              href="https://t.me/scodein"
+              href="https://t.me/Prernamishra29"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -49,7 +49,7 @@ export default class Footerpage extends Component {
             </a>
             &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
             <a
-              href="https://twitter.com/studentcodein"
+              href="https://x.com/NikitaC18313034?t=dX1z4mljJ88hF_L36x3jHg&s=08"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -57,7 +57,7 @@ export default class Footerpage extends Component {
             </a>
             &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
             <a
-              href="https://www.youtube.com/channel/UC-vtklY_rvSJogpbPnp8r-A"
+              href="https://youtube.com/@nikitachauhan4733?feature=shared "
               target="_blank"
               rel="noopener noreferrer"
             >

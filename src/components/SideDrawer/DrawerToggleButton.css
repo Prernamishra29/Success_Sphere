@@ -1,9 +1,9 @@
 .toggle-button {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  height: 24px;
+  justify-content: space-between;
   width: 30px;
+  height: 20px;
   background: transparent;
   border: none;
   cursor: pointer;
@@ -16,8 +16,12 @@
 }
 
 .toggle-button__line {
-  width: 20px;
-  height: 10px;
-  background: black;
-  margin: 11%;
+  width: 30px;
+  height: 3px;
+  background: #333;
+  transition: all 0.3s ease;
+}
+
+.toggle-button:hover .toggle-button__line {
+  background: #007bff;
 }
